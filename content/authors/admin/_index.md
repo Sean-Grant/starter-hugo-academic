@@ -2,12 +2,19 @@
 title: Sean Grant
 role: Assistant Professor
 avatar_filename: sean-grant-headshot.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+bio: "The ultimate goal of Dr. Grant's research is to advance evidence-based
+  practice: i.e., the use of scientific evidence to inform decisions about
+  public health policies and programs. In pursuit of this goal, his scholarship
+  focuses on social and behavioral research methods used to create evidence for
+  public health decision-making. This type of work is known as “meta-research”
+  (or “research on research”), as it seeks to increase the quality of scientific
+  evidence by studying how research is done and how it can be improved. He
+  particularly focuses on where improvements can be made in three areas: open
+  science, research synthesis methods, and stakeholder engagement. His work
+  involves both studying how others have applied these methods, as well as
+  applications of these methods in translational research on specific public
+  health issues (such as substance use and mental health)."
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -42,9 +49,4 @@ email: spgrant@iu.edu
 superuser: true
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Dr. Sean Grant is an Assistant Professor in the Department of Social & Behavioral Sciences at the IU Richard M. Fairbanks School of Public Health. He completed his doctorate in social intervention as a Clarendon Scholar at the Centre for Evidence-Based Intervention, University of Oxford. Prior to joining FSPH, he spent several years as a Social and Behavioral Scientist at the RAND Corporation, Faculty at the Pardee RAND Graduate School, and Lecturer at Loyola Marymount University. He currently is an Associate Editor for the journals Trials and Systematic Reviews, Associate Methods Editor for Campbell Systematic Reviews, Methodological Transparency Editor for Journal of Research on Educational Effectiveness, and an Editorial Board member for Prevention Science.
